@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseAndroidComposeKtor</string>
+    <string name="home">Home</string>
+    <string name="coin_type">Coin Type</string>
+    <string name="active_indicator">Active Indicator</string>
+    <string name="return_to_home">Return to Home</string>
+    <string name="detail">Detail</string>
+</resources>

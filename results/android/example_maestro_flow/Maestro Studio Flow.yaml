@@ -1,0 +1,25 @@
+appId: null
+---
+- tapOn: "KMPAndroidCMPKtor"
+- scrollUntilVisible:
+    element:
+      text: "FIL"
+    direction: "DOWN"
+    speed: 70
+    visibilityPercentage: 100
+- tapOn:
+    text: "FIL"
+- tapOn: "Return to Home"
+- scrollUntilVisible:
+    element:
+      text: "MINA"
+    direction: "DOWN"
+    speed: 70
+    visibilityPercentage: 100
+- tapOn:
+    text: "MINA"
+- tapOn: "Return to Home"
+- repeat:
+    times: 10
+    commands:
+    - "scroll"
