@@ -11,9 +11,9 @@ To offer a detailed understanding, the methodology, the conducted experiments, a
 <br>
 <br>
 
-- [Part 1: Introduction & Methodology]()
-- [Part 2: Experiments & Results]()
-- [Part 3: Outcomes & Acknowledgements]()
+- [Part 1: Introduction & Methodology](https://medium.com/@alitahasubfly/i-made-the-same-app-15-times-here-are-the-results-part-1-introduction-methodology-ae9fcc1485e4)
+- [Part 2: Experiments & Results](https://medium.com/@alitahasubfly/i-made-the-same-app-15-times-here-are-the-results-part-2-experiments-results-27aeb93cb42b)
+- [Part 3: Outcomes & Acknowledgements](https://medium.com/@alitahasubfly/i-made-the-same-app-15-times-here-are-the-results-part-3-outcomes-acknowledgements-d25a82f1c403)
 
 <br>
 This project is an open book for learning and sharing. Feel free to explore, share, and utilize any part of this article series and the project, while ensuring proper attribution. Your feedback is highly valued, and I am open to any questions or discussions that might arise from this work. For further queries, insights, or collaborations, feel free to connect with me at:
